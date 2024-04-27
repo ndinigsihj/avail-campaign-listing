@@ -8,7 +8,7 @@ format to listing.json.
 {
   "name": "your_app_chain",
   "logo": "https://placehold.co/400x400",
-  "rpc_url": "https://rpc.myappchain.xyz",
+  "rpc_url": "https://myrpc.myappchain.xyz",
   "explorer_url": "https://explorer.myappchain.xyz",
   "metrics_endpoint": "https://metrics.myappchain.xyz",
   "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
